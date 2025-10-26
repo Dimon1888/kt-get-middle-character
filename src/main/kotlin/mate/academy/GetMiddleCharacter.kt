@@ -22,6 +22,5 @@ fun main() {
     println("hello -> \"${getMiddleString("hello")}\"")
     println("1234 -> \"${getMiddleString("1234")}\"")
     println("(()) -> \"${getMiddleString("(())")}\"")
-    println("Bob -> \"${getMiddleString("Bob")}\"")
     println(" -> \"${getMiddleString("")}\"")
 }
